@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\data\\repositories\\irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\data\\repositories\\irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|c:\\users\\harman\\desktop\\work\\current\\internship_tatvasoft\\day4\\practice\\practice_books\\practice_books\\migrations\\20240525040347_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DC7AB1-0FDD-442F-9B5E-7E88B0418C72}|Practice_Books\\Practice_Books.csproj|solutionrelative:practice_books\\migrations\\20240525040347_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Services\\BookServices.cs",
+              "RelativeToolTip": "Practice_Books\\Services\\BookServices.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:12:26.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240525040347_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Migrations\\20240525040347_InitalMigration.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Migrations\\20240525040347_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Migrations\\20240525040347_InitalMigration.cs",
+              "RelativeToolTip": "Practice_Books\\Migrations\\20240525040347_InitalMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:03:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Data\\Repositories\\IRepository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Data\\Repositories\\IRepository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Data\\Repositories\\IRepository\\IBookRepository.cs",
+              "RelativeToolTip": "Practice_Books\\Data\\Repositories\\IRepository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:51:57.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Practice_Books\\Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:50:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Models\\Books.cs",
+              "RelativeToolTip": "Practice_Books\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:49:32.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Program.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Program.cs",
+              "RelativeToolTip": "Practice_Books\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:02:41.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Services\\DepartmentServices.cs",
+              "RelativeDocumentMoniker": "Practice_Books\\Services\\DepartmentServices.cs",
+              "ToolTip": "C:\\Users\\Harman\\Desktop\\work\\Current\\Internship_TatvaSoft\\Day4\\practice\\Practice_Books\\Practice_Books\\Services\\DepartmentServices.cs",
+              "RelativeToolTip": "Practice_Books\\Services\\DepartmentServices.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:19:50.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
